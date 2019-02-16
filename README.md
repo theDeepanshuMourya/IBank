@@ -1,4 +1,4 @@
-# Banking_Management_System
+# IBank (Banking-Management-System)
 Banking Management System (IBank) is a mini project application coded in Java programming language built using Eclipse. The database used is DB Browser for SQLite. The file contains the database created for this application with the name “Bank.db”. The application can be used for normal banking purposes and is capable of performing the following functions: -
 1)	Create an account
 2)	View Profile
